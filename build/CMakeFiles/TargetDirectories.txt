@@ -1,0 +1,3 @@
+/t2k/users/shvartsman/T2KND280soft_/node204-new-scheme/an_scr/my-analisys-proj/build/CMakeFiles/rebuild_cache.dir
+/t2k/users/shvartsman/T2KND280soft_/node204-new-scheme/an_scr/my-analisys-proj/build/CMakeFiles/edit_cache.dir
+/t2k/users/shvartsman/T2KND280soft_/node204-new-scheme/an_scr/my-analisys-proj/build/CMakeFiles/analisys.dir
